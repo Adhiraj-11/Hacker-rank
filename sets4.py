@@ -7,7 +7,6 @@ set_final = set()
 
 other_sets = int(input())
 
-
 for i in range(other_sets):
     command = input()
     a = command.split(" ")
