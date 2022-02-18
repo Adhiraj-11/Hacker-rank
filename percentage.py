@@ -24,6 +24,5 @@ sum = 0
 for i in y:
     sum += i
 
-
 avg = sum/len(y)
 print(avg)
