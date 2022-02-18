@@ -10,11 +10,8 @@ for i in range(n):
 
 words_set = set(word_list)
 
-
 for i in word_list:
-
     x = word_list.count(i)
-
     elements.append(x)
 
 
